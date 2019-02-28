@@ -3,6 +3,18 @@
     <string name="best_record">Best Record \n \n 58\'\'</string>
     <string name="my_goal">My Goal \n \n 1\'30\'\'</string>
     <string name="total_time">Total Time \n \n 3\'28\'\'</string>
-    <string name="start_plank">START \n PLANKING</string>
+    <string name="exercise_mode">EXERCISE MODE</string>
     <string name="send_challenge">SEND PLANK \n CHALLENGE</string>
+    <string name="plank_exercise">Plank Exercise</string>
+    <string name="forearm_plank"> Forearm Plank\nBeginner</string>
+    <string name="high_plank">High Plank\nIntermediate</string>
+    <string name="chair_side_plank">Chair Side Plank\nAdvanced</string>
+    <string name="set_timer">SET TIMER</string>
+    <string name="forearm_tips">Tips: \n\nPlace your forearms on the ground with the elbows aligned below the shoulders, and arms parallel to the body at about shoulder-width distance.\n \nGround the toes into the floor and squeeze the glutes to stabilize the body.\n\nBreath naturally and make sure your head, shoulder, back, hip, and ankles are in line.</string>
+    <string name="forearm_tips_title">Forearm Plank</string>
+    <string name="title_activity_plank_content">plank_content</string>
+    <string name="title_greeting">Hello Amber\n</string>
+    <string name="profile">profile</string>
+    <string name="forearm_tutor">Forearm Tutor</string>
 </resources>
+
