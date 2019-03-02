@@ -45,7 +45,8 @@ public class MainActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         requestWindowFeature(Window.FEATURE_NO_TITLE);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.timer2);
+        /**
         mTextMessage = (TextView) findViewById(R.id.message);
         BottomNavigationView navigation = (BottomNavigationView) findViewById(R.id.navigation);
         navigation.setOnNavigationItemSelectedListener(mOnNavigationItemSelectedListener);
@@ -56,11 +57,13 @@ public class MainActivity extends Activity {
                openStartPlanking();
            }
         });
+         */
     }
 
+    /**
     public void openStartPlanking() {
         Intent intent = new Intent(this, plank_exercise.class);
         startActivity(intent);
     }
-
+*/
 }
